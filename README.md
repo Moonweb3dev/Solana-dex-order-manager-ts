@@ -39,15 +39,15 @@ solana-dex-order-manager-ts/
 
 
  Features (Demo Only)
-✔ Fake wallet + fake signing
+Fake wallet + fake signing
 Imitates how a Solana wallet could generate keys and sign transactions.
-✔ Order manager skeleton
+ Order manager skeleton
 Accepts mock market data and generates fake orders.
-✔ Basic strategy example
+ Basic strategy example
 Listens to price changes and “places” buy/sell orders based on threshold values.
-✔ Websocket-style streaming (simulated)
+Websocket-style streaming (simulated)
 Shows how market data would be consumed from a Solana DEX.
-✔ Logging utilities + typed settings
+ Logging utilities + typed settings
 Makes the project look like a real engineering structure.
 
 
